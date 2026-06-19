@@ -2,11 +2,11 @@ team_name: "TODO"
 primary_contact_name: "TODO"
 primary_contact_email: "TODO"
 primary_contact_phone: "TODO"
-github_repository_url: "TODO"
+github_repository_url: "https://github.com/raj921/indiarunhackathon"
 sandbox_demo_link: "TODO"
 ai_tools_declared:
   - "ChatGPT/Codex used during development only"
-compute_environment_summary: "TODO, e.g. MacBook, Node.js 22, CPU-only ranking"
+compute_environment_summary: "MacBook Air arm64, macOS 26.3, Node.js v22.19.0, CPU-only ranking"
 team_members:
   - name: "TODO"
     email: "TODO"
