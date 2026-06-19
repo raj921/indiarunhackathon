@@ -1,0 +1,17 @@
+team_name: "TODO"
+primary_contact_name: "TODO"
+primary_contact_email: "TODO"
+primary_contact_phone: "TODO"
+github_repository_url: "TODO"
+sandbox_demo_link: "TODO"
+ai_tools_declared:
+  - "ChatGPT/Codex used during development only"
+compute_environment_summary: "TODO, e.g. MacBook, Node.js 22, CPU-only ranking"
+team_members:
+  - name: "TODO"
+    email: "TODO"
+methodology_summary: >
+  Deterministic no-LLM ranker that interprets the Senior AI Engineer JD into evidence groups:
+  production retrieval/ranking systems, vector/hybrid infrastructure, evaluation maturity,
+  applied product engineering, availability/logistics, and profile consistency. The ranking
+  command streams candidates.jsonl locally and produces a top-100 CSV without network calls.

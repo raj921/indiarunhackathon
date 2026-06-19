@@ -1,0 +1,7 @@
+{
+  "candidateCount": 100000,
+  "generatedAt": "2026-06-01T15:23:57.708Z",
+  "elapsedMs": 39154,
+  "outputCsv": "outputs/submission.csv",
+  "outputJson": "outputs/top_candidates.json"
+}

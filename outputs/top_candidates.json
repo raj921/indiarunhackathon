@@ -1,0 +1,4166 @@
+[
+  {
+    "candidate_id": "CAND_0081846",
+    "rank": 1,
+    "score": 0.9185,
+    "reasoning": "Lead AI Engineer with 6.7 years at Razorpay (Fintech); evidence includes semantic search, dense vector recall, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 73% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Lead AI Engineer",
+      "company": "Razorpay",
+      "industry": "Fintech",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 6.7
+    },
+    "dimensions": {
+      "productionSearch": 0.9738181818181818,
+      "appliedEngineering": 0.754496945259042,
+      "evaluationMaturity": 0.9694545454545455,
+      "availabilityLogistics": 0.9195641904761905,
+      "trustConsistency": 0.9561666666666666
+    },
+    "evidence": [
+      "semantic search",
+      "dense vector recall",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Qdrant",
+      "Elasticsearch",
+      "NDCG",
+      "MRR",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.73,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": 33.7,
+      "savedByRecruiters30d": 62
+    }
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "rank": 2,
+    "score": 0.9094,
+    "reasoning": "Staff Machine Learning Engineer with 7.0 years at Paytm (Fintech); evidence includes semantic search, recommendation system, dense vector recall tied to the JD's search/ranking mandate. Platform fit: open to work; 95% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Paytm",
+      "industry": "Fintech",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years": 7
+    },
+    "dimensions": {
+      "productionSearch": 1,
+      "appliedEngineering": 0.7983870967741935,
+      "evaluationMaturity": 0.7887500000000001,
+      "availabilityLogistics": 0.9265815238095239,
+      "trustConsistency": 0.9491999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "dense vector recall",
+      "embeddings",
+      "Pinecone",
+      "Qdrant",
+      "OpenSearch",
+      "NDCG",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.95,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-26",
+      "githubActivity": 68,
+      "savedByRecruiters30d": 32
+    }
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "rank": 3,
+    "score": 0.8891,
+    "reasoning": "Senior NLP Engineer with 7.8 years at Ola (Transportation); evidence includes candidate-JD matching, semantic search, dense vector recall tied to the JD's search/ranking mandate. Platform fit: open to work; 66% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Senior NLP Engineer",
+      "company": "Ola",
+      "industry": "Transportation",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 1,
+      "appliedEngineering": 0.821404569892473,
+      "evaluationMaturity": 0.7887500000000001,
+      "availabilityLogistics": 0.7865628571428573,
+      "trustConsistency": 0.9232333333333332
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "semantic search",
+      "dense vector recall",
+      "retrieval",
+      "Pinecone",
+      "Qdrant",
+      "BM25",
+      "NDCG",
+      "A/B testing",
+      "Python",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.66,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-25",
+      "githubActivity": 53.3,
+      "savedByRecruiters30d": 55
+    }
+  },
+  {
+    "candidate_id": "CAND_0018499",
+    "rank": 4,
+    "score": 0.874,
+    "reasoning": "Senior Machine Learning Engineer with 7.2 years at Zomato (Food Delivery); evidence includes candidate-JD matching, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 61% recruiter response; 15d notice.",
+    "profile": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Zomato",
+      "industry": "Food Delivery",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 7.2
+    },
+    "dimensions": {
+      "productionSearch": 0.8922181818181818,
+      "appliedEngineering": 0.6634189882697947,
+      "evaluationMaturity": 0.9070545454545454,
+      "availabilityLogistics": 0.953032,
+      "trustConsistency": 0.9999999999999999
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "NDCG",
+      "MRR",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.61,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-05-13",
+      "githubActivity": 94.8,
+      "savedByRecruiters30d": 16
+    }
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "rank": 5,
+    "score": 0.8691,
+    "reasoning": "Senior Data Scientist with 7.4 years at Sarvam AI (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 57% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Sarvam AI",
+      "industry": "AI/ML",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years": 7.4
+    },
+    "dimensions": {
+      "productionSearch": 0.9934545454545455,
+      "appliedEngineering": 0.7351212121212121,
+      "evaluationMaturity": 0.6998636363636364,
+      "availabilityLogistics": 0.860558,
+      "trustConsistency": 0.9355999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.57,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-14",
+      "githubActivity": 80.7,
+      "savedByRecruiters30d": 26
+    }
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "rank": 6,
+    "score": 0.8548,
+    "reasoning": "Staff Machine Learning Engineer with 8.8 years at Salesforce (Software); evidence includes semantic search, dense vector recall, retrieval tied to the JD's search/ranking mandate. Platform fit: not marked open; 66% recruiter response; 0d notice.",
+    "profile": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Salesforce",
+      "industry": "Software",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 8.8
+    },
+    "dimensions": {
+      "productionSearch": 0.8237333333333332,
+      "appliedEngineering": 0.9032258064516128,
+      "evaluationMaturity": 0.7716833333333334,
+      "availabilityLogistics": 0.8456433333333334,
+      "trustConsistency": 0.9548333333333332
+    },
+    "evidence": [
+      "semantic search",
+      "dense vector recall",
+      "retrieval",
+      "ranking",
+      "Milvus",
+      "Elasticsearch",
+      "OpenSearch",
+      "NDCG",
+      "A/B testing",
+      "Python",
+      "backend engineering"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.66,
+      "noticeDays": 0,
+      "lastActiveDate": "2026-04-09",
+      "githubActivity": 32.9,
+      "savedByRecruiters30d": 27
+    }
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "rank": 7,
+    "score": 0.8423,
+    "reasoning": "Senior NLP Engineer with 5.2 years at Netflix (Media); evidence includes candidate-JD matching, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: not marked open; 86% recruiter response; 60d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Senior NLP Engineer",
+      "company": "Netflix",
+      "industry": "Media",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 5.2
+    },
+    "dimensions": {
+      "productionSearch": 0.8529454545454546,
+      "appliedEngineering": 0.7440641495601173,
+      "evaluationMaturity": 0.9070545454545454,
+      "availabilityLogistics": 0.8586520000000001,
+      "trustConsistency": 0.8674000000000001
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "BM25",
+      "pgvector",
+      "NDCG",
+      "MRR",
+      "Python",
+      "MLOps"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.86,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-10",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 11
+    }
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "rank": 8,
+    "score": 0.837,
+    "reasoning": "Senior NLP Engineer with 8.9 years at Salesforce (Software); evidence includes candidate-JD matching, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 78% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Senior NLP Engineer",
+      "company": "Salesforce",
+      "industry": "Software",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 8.9
+    },
+    "dimensions": {
+      "productionSearch": 0.7973696969696968,
+      "appliedEngineering": 0.7440409335288367,
+      "evaluationMaturity": 0.932509090909091,
+      "availabilityLogistics": 0.8241068571428574,
+      "trustConsistency": 0.9705999999999999
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "NDCG",
+      "MRR",
+      "Python",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.78,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-26",
+      "githubActivity": 67.3,
+      "savedByRecruiters30d": 25
+    }
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "rank": 9,
+    "score": 0.8274,
+    "reasoning": "Senior AI Engineer with 7.8 years at Netflix (Media); evidence includes candidate-JD matching, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 76% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Senior AI Engineer",
+      "company": "Netflix",
+      "industry": "Media",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 0.9430666666666667,
+      "appliedEngineering": 0.807358870967742,
+      "evaluationMaturity": 0.45735000000000003,
+      "availabilityLogistics": 0.7876413333333335,
+      "trustConsistency": 0.9942
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "A/B testing",
+      "MLOps",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.76,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-04-16",
+      "githubActivity": 82.8,
+      "savedByRecruiters30d": 50
+    }
+  },
+  {
+    "candidate_id": "CAND_0060054",
+    "rank": 10,
+    "score": 0.7985,
+    "reasoning": "AI Engineer with 6.4 years at Mad Street Den (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 86% recruiter response; 15d notice.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Mad Street Den",
+      "industry": "AI/ML",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 6.4
+    },
+    "dimensions": {
+      "productionSearch": 0.8641696969696968,
+      "appliedEngineering": 0.7037183528836755,
+      "evaluationMaturity": 0.643209090909091,
+      "availabilityLogistics": 0.8456940000000001,
+      "trustConsistency": 0.8796
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Weaviate",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.86,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-03-17",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 39
+    }
+  },
+  {
+    "candidate_id": "CAND_0079387",
+    "rank": 11,
+    "score": 0.7916,
+    "reasoning": "AI Engineer with 6.9 years at Microsoft (Software); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 81% recruiter response; 30d notice.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Microsoft",
+      "industry": "Software",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 6.9
+    },
+    "dimensions": {
+      "productionSearch": 0.8787878787878788,
+      "appliedEngineering": 0.7488819648093841,
+      "evaluationMaturity": 0.4001136363636364,
+      "availabilityLogistics": 0.8282814285714287,
+      "trustConsistency": 0.9999999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.81,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-25",
+      "githubActivity": 64.1,
+      "savedByRecruiters30d": 22
+    }
+  },
+  {
+    "candidate_id": "CAND_0028793",
+    "rank": 12,
+    "score": 0.7878,
+    "reasoning": "Search Engineer with 7.2 years at Google (Internet); evidence includes semantic search, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 57% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Google",
+      "industry": "Internet",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 7.2
+    },
+    "dimensions": {
+      "productionSearch": 0.8127030303030303,
+      "appliedEngineering": 0.6674280303030302,
+      "evaluationMaturity": 0.6346757575757577,
+      "availabilityLogistics": 0.8308233333333334,
+      "trustConsistency": 0.9999999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.57,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-13",
+      "githubActivity": 83.1,
+      "savedByRecruiters30d": 43
+    }
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "rank": 13,
+    "score": 0.7799,
+    "reasoning": "Senior Machine Learning Engineer with 8.1 years at Flipkart (E-commerce); evidence includes candidate-JD matching, semantic search, dense vector recall tied to the JD's search/ranking mandate. Platform fit: open to work; 87% recruiter response; 30d notice. Concern: outside India and not willing to relocate.",
+    "profile": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Flipkart",
+      "industry": "E-commerce",
+      "location": "London",
+      "country": "UK",
+      "years": 8.1
+    },
+    "dimensions": {
+      "productionSearch": 1,
+      "appliedEngineering": 0.821404569892473,
+      "evaluationMaturity": 1,
+      "availabilityLogistics": 0.7121246666666669,
+      "trustConsistency": 0.8583999999999999
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "semantic search",
+      "dense vector recall",
+      "embeddings",
+      "FAISS",
+      "Elasticsearch",
+      "OpenSearch",
+      "NDCG",
+      "MRR",
+      "Python",
+      "Kubernetes"
+    ],
+    "concerns": [
+      "outside India and not willing to relocate"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.87,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-17",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 13
+    }
+  },
+  {
+    "candidate_id": "CAND_0030953",
+    "rank": 14,
+    "score": 0.7698,
+    "reasoning": "Search Engineer with 7.8 years at Nykaa (E-commerce); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 63% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Nykaa",
+      "industry": "E-commerce",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 0.7709696969696969,
+      "appliedEngineering": 0.784363514173998,
+      "evaluationMaturity": 0.6464090909090909,
+      "availabilityLogistics": 0.7152260000000001,
+      "trustConsistency": 0.9254
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.63,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-04-11",
+      "githubActivity": 21,
+      "savedByRecruiters30d": 46
+    }
+  },
+  {
+    "candidate_id": "CAND_0044855",
+    "rank": 15,
+    "score": 0.7676,
+    "reasoning": "Senior Data Scientist with 6.6 years at Flipkart (E-commerce); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 57% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Flipkart",
+      "industry": "E-commerce",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 6.6
+    },
+    "dimensions": {
+      "productionSearch": 0.8996363636363637,
+      "appliedEngineering": 0.6328016862170088,
+      "evaluationMaturity": 0.34665909090909097,
+      "availabilityLogistics": 0.8499662857142857,
+      "trustConsistency": 0.9778333333333332
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.57,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-24",
+      "githubActivity": 46.7,
+      "savedByRecruiters30d": 43
+    }
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "rank": 16,
+    "score": 0.7669,
+    "reasoning": "Senior AI Engineer with 5.9 years at Apple (Consumer Electronics); evidence includes candidate-JD matching, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 80% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Senior AI Engineer",
+      "company": "Apple",
+      "industry": "Consumer Electronics",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 5.9
+    },
+    "dimensions": {
+      "productionSearch": 0.7696121212121211,
+      "appliedEngineering": 0.7956166911045942,
+      "evaluationMaturity": 0.426319696969697,
+      "availabilityLogistics": 0.8463766666666668,
+      "trustConsistency": 0.9835999999999999
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "A/B testing",
+      "Python",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.8,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-26",
+      "githubActivity": 96.9,
+      "savedByRecruiters30d": 22
+    }
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "rank": 17,
+    "score": 0.7668,
+    "reasoning": "Senior Data Scientist with 6.5 years at Google (Internet); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 72% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Google",
+      "industry": "Internet",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 6.5
+    },
+    "dimensions": {
+      "productionSearch": 0.6563030303030303,
+      "appliedEngineering": 0.7907872678396871,
+      "evaluationMaturity": 0.6449545454545456,
+      "availabilityLogistics": 0.915032,
+      "trustConsistency": 0.9660333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Qdrant",
+      "Milvus",
+      "OpenSearch",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.72,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-05-13",
+      "githubActivity": 45.5,
+      "savedByRecruiters30d": 35
+    }
+  },
+  {
+    "candidate_id": "CAND_0010685",
+    "rank": 18,
+    "score": 0.7606,
+    "reasoning": "NLP Engineer with 6.7 years at Rephrase.ai (AI/ML); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 83% recruiter response; 30d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 6.7
+    },
+    "dimensions": {
+      "productionSearch": 0.7293939393939394,
+      "appliedEngineering": 0.7714115347018573,
+      "evaluationMaturity": 0.6678636363636364,
+      "availabilityLogistics": 0.7856780000000001,
+      "trustConsistency": 0.8864
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Elasticsearch",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.83,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-03-16",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 46
+    }
+  },
+  {
+    "candidate_id": "CAND_0044883",
+    "rank": 19,
+    "score": 0.7575,
+    "reasoning": "AI Engineer with 6.3 years at Mad Street Den (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 84% recruiter response; 90d notice. Concern: outside India but willing to relocate.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Mad Street Den",
+      "industry": "AI/ML",
+      "location": "Berlin",
+      "country": "Germany",
+      "years": 6.3
+    },
+    "dimensions": {
+      "productionSearch": 0.9167878787878788,
+      "appliedEngineering": 0.7351212121212121,
+      "evaluationMaturity": 0.6998636363636364,
+      "availabilityLogistics": 0.7677480000000001,
+      "trustConsistency": 0.7964
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [
+      "outside India but willing to relocate"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.84,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-07",
+      "githubActivity": 70.5,
+      "savedByRecruiters30d": 59
+    }
+  },
+  {
+    "candidate_id": "CAND_0039383",
+    "rank": 20,
+    "score": 0.7548,
+    "reasoning": "Applied ML Engineer with 7.1 years at Meesho (E-commerce); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 61% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Meesho",
+      "industry": "E-commerce",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years": 7.1
+    },
+    "dimensions": {
+      "productionSearch": 0.7129696969696968,
+      "appliedEngineering": 0.6674280303030302,
+      "evaluationMaturity": 0.614409090909091,
+      "availabilityLogistics": 0.8662706666666667,
+      "trustConsistency": 0.9979999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Elasticsearch",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.61,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-03-19",
+      "githubActivity": 86.4,
+      "savedByRecruiters30d": 34
+    }
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "rank": 21,
+    "score": 0.7531,
+    "reasoning": "AI Engineer with 5.7 years at Microsoft (Software); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 94% recruiter response; 30d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Microsoft",
+      "industry": "Software",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 5.7
+    },
+    "dimensions": {
+      "productionSearch": 0.7304242424242424,
+      "appliedEngineering": 0.7907872678396871,
+      "evaluationMaturity": 0.6449545454545456,
+      "availabilityLogistics": 0.7959850476190478,
+      "trustConsistency": 0.8211999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Milvus",
+      "BM25",
+      "sentence-transformers",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.94,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-22",
+      "githubActivity": 32.4,
+      "savedByRecruiters30d": 13
+    }
+  },
+  {
+    "candidate_id": "CAND_0053695",
+    "rank": 22,
+    "score": 0.7522,
+    "reasoning": "Recommendation Systems Engineer with 5.8 years at Meesho (E-commerce); evidence includes semantic search, recommendation system, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 60% recruiter response; 15d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Meesho",
+      "industry": "E-commerce",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years": 5.8
+    },
+    "dimensions": {
+      "productionSearch": 0.7536363636363637,
+      "appliedEngineering": 0.6984764173998044,
+      "evaluationMaturity": 0.6304090909090909,
+      "availabilityLogistics": 0.7721047619047621,
+      "trustConsistency": 0.9226
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.6,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-04-02",
+      "githubActivity": 67.6,
+      "savedByRecruiters30d": 34
+    }
+  },
+  {
+    "candidate_id": "CAND_0011162",
+    "rank": 23,
+    "score": 0.7507,
+    "reasoning": "Recommendation Systems Engineer with 5.8 years at upGrad (EdTech); evidence includes recommendation system, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 75% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "upGrad",
+      "industry": "EdTech",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 5.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6619515151515151,
+      "appliedEngineering": 0.7907872678396871,
+      "evaluationMaturity": 0.6321545454545455,
+      "availabilityLogistics": 0.882706,
+      "trustConsistency": 0.8907666666666666
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.75,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-10",
+      "githubActivity": 34.3,
+      "savedByRecruiters30d": 63
+    }
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "rank": 24,
+    "score": 0.7492,
+    "reasoning": "Senior Machine Learning Engineer with 6.1 years at Genpact AI (AI Services); evidence includes embeddings, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 88% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Genpact AI",
+      "industry": "AI Services",
+      "location": "Pune, Maharashtra",
+      "country": "India",
+      "years": 6.1
+    },
+    "dimensions": {
+      "productionSearch": 0.6758060606060605,
+      "appliedEngineering": 0.4942727272727273,
+      "evaluationMaturity": 0.8759515151515153,
+      "availabilityLogistics": 0.9757885714285714,
+      "trustConsistency": 0.9067666666666666
+    },
+    "evidence": [
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Qdrant",
+      "Elasticsearch",
+      "NDCG",
+      "MRR"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.88,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-23",
+      "githubActivity": 36.7,
+      "savedByRecruiters30d": 38
+    }
+  },
+  {
+    "candidate_id": "CAND_0070398",
+    "rank": 25,
+    "score": 0.7475,
+    "reasoning": "Machine Learning Engineer with 7.2 years at Genpact AI (AI Services); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 60% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Genpact AI",
+      "industry": "AI Services",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years": 7.2
+    },
+    "dimensions": {
+      "productionSearch": 0.7796363636363636,
+      "appliedEngineering": 0.6033151270772238,
+      "evaluationMaturity": 0.614409090909091,
+      "availabilityLogistics": 0.8248808571428571,
+      "trustConsistency": 0.9206
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Elasticsearch",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.6,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-14",
+      "githubActivity": 63.1,
+      "savedByRecruiters30d": 13
+    }
+  },
+  {
+    "candidate_id": "CAND_0086151",
+    "rank": 26,
+    "score": 0.7421,
+    "reasoning": "Recommendation Systems Engineer with 7.7 years at Wysa (HealthTech AI); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 52% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Wysa",
+      "industry": "HealthTech AI",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 7.7
+    },
+    "dimensions": {
+      "productionSearch": 0.821321212121212,
+      "appliedEngineering": 0.6650365347018572,
+      "evaluationMaturity": 0.3689136363636364,
+      "availabilityLogistics": 0.8150424761904762,
+      "trustConsistency": 0.9605666666666666
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Qdrant",
+      "Elasticsearch",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.52,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-03-23",
+      "githubActivity": 51.7,
+      "savedByRecruiters30d": 55
+    }
+  },
+  {
+    "candidate_id": "CAND_0033861",
+    "rank": 27,
+    "score": 0.7368,
+    "reasoning": "Senior NLP Engineer with 8.0 years at Mad Street Den (AI/ML); evidence includes candidate-JD matching, semantic search, recommendation system tied to the JD's search/ranking mandate. Platform fit: not marked open; 16% recruiter response; 30d notice. Concern: low recruiter response rate.",
+    "profile": {
+      "title": "Senior NLP Engineer",
+      "company": "Mad Street Den",
+      "industry": "AI/ML",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 8
+    },
+    "dimensions": {
+      "productionSearch": 0.8833333333333333,
+      "appliedEngineering": 0.7782258064516128,
+      "evaluationMaturity": 0.7887500000000001,
+      "availabilityLogistics": 0.6443994285714287,
+      "trustConsistency": 0.9135333333333333
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "semantic search",
+      "recommendation system",
+      "dense vector recall",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "NDCG",
+      "A/B testing",
+      "Kubernetes"
+    ],
+    "concerns": [
+      "low recruiter response rate"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.16,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-02-16",
+      "githubActivity": 32.6,
+      "savedByRecruiters30d": 4
+    }
+  },
+  {
+    "candidate_id": "CAND_0026532",
+    "rank": 28,
+    "score": 0.7318,
+    "reasoning": "Recommendation Systems Engineer with 4.8 years at Zomato (Food Delivery); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 52% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Zomato",
+      "industry": "Food Delivery",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 4.8
+    },
+    "dimensions": {
+      "productionSearch": 0.8828363636363635,
+      "appliedEngineering": 0.6104016862170089,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.7571299047619048,
+      "trustConsistency": 0.9043666666666667
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.52,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-03-28",
+      "githubActivity": 32.5,
+      "savedByRecruiters30d": 42
+    }
+  },
+  {
+    "candidate_id": "CAND_0077285",
+    "rank": 29,
+    "score": 0.7315,
+    "reasoning": "Recommendation Systems Engineer with 5.5 years at Nykaa (E-commerce); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 56% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Nykaa",
+      "industry": "E-commerce",
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "years": 5.5
+    },
+    "dimensions": {
+      "productionSearch": 0.7039757575757575,
+      "appliedEngineering": 0.7061098484848484,
+      "evaluationMaturity": 0.6438878787878789,
+      "availabilityLogistics": 0.7860326666666668,
+      "trustConsistency": 0.8623999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "RAG",
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.56,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": 75.6,
+      "savedByRecruiters30d": 65
+    }
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "rank": 30,
+    "score": 0.7289,
+    "reasoning": "NLP Engineer with 6.5 years at Haptik (Conversational AI); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 68% recruiter response; 15d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Haptik",
+      "industry": "Conversational AI",
+      "location": "Pune, Maharashtra",
+      "country": "India",
+      "years": 6.5
+    },
+    "dimensions": {
+      "productionSearch": 0.7726060606060605,
+      "appliedEngineering": 0.7811168132942325,
+      "evaluationMaturity": 0.14981818181818185,
+      "availabilityLogistics": 0.8680880952380954,
+      "trustConsistency": 0.9974999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Weaviate",
+      "Elasticsearch",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.68,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-03-31",
+      "githubActivity": 58.5,
+      "savedByRecruiters30d": 25
+    }
+  },
+  {
+    "candidate_id": "CAND_0039754",
+    "rank": 31,
+    "score": 0.7284,
+    "reasoning": "Senior Applied Scientist with 16.2 years at Meta (Internet); evidence includes semantic search, dense vector recall, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 81% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Senior Applied Scientist",
+      "company": "Meta",
+      "industry": "Internet",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years": 16.2
+    },
+    "dimensions": {
+      "productionSearch": 0.7284848484848485,
+      "appliedEngineering": 0.414096945259042,
+      "evaluationMaturity": 0.9694545454545455,
+      "availabilityLogistics": 0.6805633333333334,
+      "trustConsistency": 0.9541999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "dense vector recall",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "NDCG",
+      "MRR",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.81,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-14",
+      "githubActivity": 77.5,
+      "savedByRecruiters30d": 51
+    }
+  },
+  {
+    "candidate_id": "CAND_0096172",
+    "rank": 32,
+    "score": 0.7225,
+    "reasoning": "NLP Engineer with 5.2 years at Krutrim (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 47% recruiter response; 45d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Krutrim",
+      "industry": "AI/ML",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 5.2
+    },
+    "dimensions": {
+      "productionSearch": 0.7895030303030303,
+      "appliedEngineering": 0.6811887829912023,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.740941142857143,
+      "trustConsistency": 0.9817999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Qdrant",
+      "Elasticsearch",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.47,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": 65,
+      "savedByRecruiters30d": 11
+    }
+  },
+  {
+    "candidate_id": "CAND_0057563",
+    "rank": 33,
+    "score": 0.7208,
+    "reasoning": "NLP Engineer with 6.8 years at Locobuzz (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 83% recruiter response; 60d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Locobuzz",
+      "industry": "AI/ML",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years": 6.8
+    },
+    "dimensions": {
+      "productionSearch": 0.7546545454545454,
+      "appliedEngineering": 0.6650365347018572,
+      "evaluationMaturity": 0.3689136363636364,
+      "availabilityLogistics": 0.8602787619047619,
+      "trustConsistency": 0.9286
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Elasticsearch",
+      "OpenSearch",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.83,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-21",
+      "githubActivity": 22.8,
+      "savedByRecruiters30d": 33
+    }
+  },
+  {
+    "candidate_id": "CAND_0017960",
+    "rank": 34,
+    "score": 0.7154,
+    "reasoning": "Recommendation Systems Engineer with 7.7 years at Nykaa (E-commerce); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 72% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Nykaa",
+      "industry": "E-commerce",
+      "location": "Bangalore, Karnataka",
+      "country": "India",
+      "years": 7.7
+    },
+    "dimensions": {
+      "productionSearch": 0.5909575757575758,
+      "appliedEngineering": 0.6868037634408602,
+      "evaluationMaturity": 0.5989666666666668,
+      "availabilityLogistics": 0.9132893333333335,
+      "trustConsistency": 0.9621999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Qdrant",
+      "offline-online calibration",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.72,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-27",
+      "githubActivity": 92.4,
+      "savedByRecruiters30d": 43
+    }
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "rank": 35,
+    "score": 0.7151,
+    "reasoning": "Search Engineer with 7.6 years at Sarvam AI (AI/ML); evidence includes embeddings, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 94% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Sarvam AI",
+      "industry": "AI/ML",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years": 7.6
+    },
+    "dimensions": {
+      "productionSearch": 0.6055030303030303,
+      "appliedEngineering": 0.7230940860215054,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.8792002857142859,
+      "trustConsistency": 0.9281999999999999
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "search",
+      "RAG",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.94,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-05-21",
+      "githubActivity": 61.4,
+      "savedByRecruiters30d": 60
+    }
+  },
+  {
+    "candidate_id": "CAND_0068811",
+    "rank": 36,
+    "score": 0.7151,
+    "reasoning": "Applied ML Engineer with 8.0 years at Freshworks (SaaS); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 42% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Freshworks",
+      "industry": "SaaS",
+      "location": "Pune, Maharashtra",
+      "country": "India",
+      "years": 8
+    },
+    "dimensions": {
+      "productionSearch": 0.7421696969696969,
+      "appliedEngineering": 0.7037183528836755,
+      "evaluationMaturity": 0.3781257575757576,
+      "availabilityLogistics": 0.9175906666666668,
+      "trustConsistency": 0.8013
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.42,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-21",
+      "githubActivity": 23.1,
+      "savedByRecruiters30d": 4
+    }
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "rank": 37,
+    "score": 0.7145,
+    "reasoning": "Recommendation Systems Engineer with 8.0 years at CRED (Fintech); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 77% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "CRED",
+      "industry": "Fintech",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 8
+    },
+    "dimensions": {
+      "productionSearch": 0.7430181818181818,
+      "appliedEngineering": 0.6682832355816226,
+      "evaluationMaturity": 0.32467121212121214,
+      "availabilityLogistics": 0.8686273333333334,
+      "trustConsistency": 0.945
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "A/B testing",
+      "feature pipelines",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.77,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-06",
+      "githubActivity": 70.9,
+      "savedByRecruiters30d": 37
+    }
+  },
+  {
+    "candidate_id": "CAND_0044222",
+    "rank": 38,
+    "score": 0.7133,
+    "reasoning": "AI Engineer with 7.7 years at PolicyBazaar (Insurance Tech); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 60% recruiter response; 60d notice.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "PolicyBazaar",
+      "industry": "Insurance Tech",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 7.7
+    },
+    "dimensions": {
+      "productionSearch": 0.662969696969697,
+      "appliedEngineering": 0.6674280303030302,
+      "evaluationMaturity": 0.614409090909091,
+      "availabilityLogistics": 0.7933883809523811,
+      "trustConsistency": 0.9107666666666666
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Qdrant",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.6,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-15",
+      "githubActivity": 28.9,
+      "savedByRecruiters30d": 54
+    }
+  },
+  {
+    "candidate_id": "CAND_0054123",
+    "rank": 39,
+    "score": 0.7112,
+    "reasoning": "Applied ML Engineer with 4.7 years at Meta (Internet); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: not marked open; 87% recruiter response; 60d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Meta",
+      "industry": "Internet",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years": 4.7
+    },
+    "dimensions": {
+      "productionSearch": 0.8228363636363637,
+      "appliedEngineering": 0.6587887829912024,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.7344106666666668,
+      "trustConsistency": 0.8647999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Qdrant",
+      "Weaviate",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.87,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-08",
+      "githubActivity": 71.5,
+      "savedByRecruiters30d": 11
+    }
+  },
+  {
+    "candidate_id": "CAND_0007412",
+    "rank": 40,
+    "score": 0.7096,
+    "reasoning": "Applied ML Engineer with 7.4 years at Zoho (SaaS); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 76% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Zoho",
+      "industry": "SaaS",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 7.4
+    },
+    "dimensions": {
+      "productionSearch": 0.6136242424242424,
+      "appliedEngineering": 0.6747069892473119,
+      "evaluationMaturity": 0.5989666666666668,
+      "availabilityLogistics": 0.8576905714285715,
+      "trustConsistency": 0.9425999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Milvus",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.76,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-19",
+      "githubActivity": 36,
+      "savedByRecruiters30d": 38
+    }
+  },
+  {
+    "candidate_id": "CAND_0011687",
+    "rank": 41,
+    "score": 0.7075,
+    "reasoning": "Senior NLP Engineer with 7.8 years at Niramai (HealthTech AI); evidence includes candidate-JD matching, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 89% recruiter response; 15d notice.",
+    "profile": {
+      "title": "Senior NLP Engineer",
+      "company": "Niramai",
+      "industry": "HealthTech AI",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6861696969696969,
+      "appliedEngineering": 0.7279119012707722,
+      "evaluationMaturity": 0.36745909090909096,
+      "availabilityLogistics": 0.8277060000000002,
+      "trustConsistency": 0.9498
+    },
+    "evidence": [
+      "candidate-JD matching",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "A/B testing",
+      "MLOps",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.89,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-05-10",
+      "githubActivity": 76.3,
+      "savedByRecruiters30d": 27
+    }
+  },
+  {
+    "candidate_id": "CAND_0001610",
+    "rank": 42,
+    "score": 0.7059,
+    "reasoning": "Machine Learning Engineer with 3.0 years at Dream11 (Gaming); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 57% recruiter response; 90d notice. Concern: career tenure exceeds stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Dream11",
+      "industry": "Gaming",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 3
+    },
+    "dimensions": {
+      "productionSearch": 0.8175030303030302,
+      "appliedEngineering": 0.6597183528836755,
+      "evaluationMaturity": 0.643209090909091,
+      "availabilityLogistics": 0.6828255238095238,
+      "trustConsistency": 0.5930666666666666
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "career tenure exceeds stated experience",
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.57,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-12",
+      "githubActivity": 40,
+      "savedByRecruiters30d": 53
+    }
+  },
+  {
+    "candidate_id": "CAND_0061265",
+    "rank": 43,
+    "score": 0.7059,
+    "reasoning": "Recommendation Systems Engineer with 6.6 years at Zoho (SaaS); evidence includes semantic search, recommendation system, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 94% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Zoho",
+      "industry": "SaaS",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years": 6.6
+    },
+    "dimensions": {
+      "productionSearch": 0.8066060606060605,
+      "appliedEngineering": 0.732729716520039,
+      "evaluationMaturity": 0.16581818181818184,
+      "availabilityLogistics": 0.7880980000000002,
+      "trustConsistency": 0.893
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Qdrant",
+      "Milvus",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.94,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-03-25",
+      "githubActivity": 79.8,
+      "savedByRecruiters30d": 24
+    }
+  },
+  {
+    "candidate_id": "CAND_0083307",
+    "rank": 44,
+    "score": 0.7055,
+    "reasoning": "Search Engineer with 7.8 years at CRED (Fintech); evidence includes semantic search, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 70% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "CRED",
+      "industry": "Fintech",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 0.8398545454545453,
+      "appliedEngineering": 0.7134236314760507,
+      "evaluationMaturity": 0.11663030303030303,
+      "availabilityLogistics": 0.7499471428571429,
+      "trustConsistency": 0.9259999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.7,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-03-21",
+      "githubActivity": 69.2,
+      "savedByRecruiters30d": 28
+    }
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "rank": 45,
+    "score": 0.7037,
+    "reasoning": "Senior Applied Scientist with 5.3 years at Sarvam AI (AI/ML); evidence includes embeddings, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 55% recruiter response; 0d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Senior Applied Scientist",
+      "company": "Sarvam AI",
+      "industry": "AI/ML",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 5.3
+    },
+    "dimensions": {
+      "productionSearch": 0.6638060606060606,
+      "appliedEngineering": 0.35552272727272727,
+      "evaluationMaturity": 0.8759515151515153,
+      "availabilityLogistics": 0.8696466666666668,
+      "trustConsistency": 0.9226
+    },
+    "evidence": [
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "NDCG",
+      "MRR"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.55,
+      "noticeDays": 0,
+      "lastActiveDate": "2026-04-15",
+      "githubActivity": 75.2,
+      "savedByRecruiters30d": 53
+    }
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "rank": 46,
+    "score": 0.6992,
+    "reasoning": "Machine Learning Engineer with 4.5 years at BYJU'S (EdTech); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 54% recruiter response; 45d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "BYJU'S",
+      "industry": "EdTech",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 4.5
+    },
+    "dimensions": {
+      "productionSearch": 0.8061696969696969,
+      "appliedEngineering": 0.6910468475073314,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.7640580000000001,
+      "trustConsistency": 0.7516
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Elasticsearch",
+      "BM25",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.54,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-03-30",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 18
+    }
+  },
+  {
+    "candidate_id": "CAND_0066376",
+    "rank": 47,
+    "score": 0.6971,
+    "reasoning": "Applied ML Engineer with 5.7 years at Dream11 (Gaming); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 51% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Dream11",
+      "industry": "Gaming",
+      "location": "Mumbai, Maharashtra",
+      "country": "India",
+      "years": 5.7
+    },
+    "dimensions": {
+      "productionSearch": 0.8501090909090908,
+      "appliedEngineering": 0.6328016862170088,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.803374,
+      "trustConsistency": 0.673
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Elasticsearch",
+      "BM25",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.51,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 59
+    }
+  },
+  {
+    "candidate_id": "CAND_0061339",
+    "rank": 48,
+    "score": 0.694,
+    "reasoning": "Search Engineer with 4.2 years at Rephrase.ai (AI/ML); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 90% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Chandigarh, Chandigarh",
+      "country": "India",
+      "years": 4.2
+    },
+    "dimensions": {
+      "productionSearch": 0.6285454545454546,
+      "appliedEngineering": 0.688597311827957,
+      "evaluationMaturity": 0.5915000000000001,
+      "availabilityLogistics": 0.7803153333333334,
+      "trustConsistency": 0.8704
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Milvus",
+      "OpenSearch",
+      "offline-online calibration",
+      "A/B testing",
+      "data pipelines",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.9,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-06",
+      "githubActivity": 85.7,
+      "savedByRecruiters30d": 9
+    }
+  },
+  {
+    "candidate_id": "CAND_0074225",
+    "rank": 49,
+    "score": 0.6931,
+    "reasoning": "Machine Learning Engineer with 4.3 years at Unacademy (EdTech); evidence includes embeddings, ranking, RAG tied to the JD's search/ranking mandate. Platform fit: open to work; 91% recruiter response; 120d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Unacademy",
+      "industry": "EdTech",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 4.3
+    },
+    "dimensions": {
+      "productionSearch": 0.6440363636363636,
+      "appliedEngineering": 0.6644037634408603,
+      "evaluationMaturity": 0.5744333333333335,
+      "availabilityLogistics": 0.8142800952380952,
+      "trustConsistency": 0.8433
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "RAG",
+      "Pinecone",
+      "Qdrant",
+      "Milvus",
+      "offline-online calibration",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.91,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-05-20",
+      "githubActivity": 54.3,
+      "savedByRecruiters30d": 53
+    }
+  },
+  {
+    "candidate_id": "CAND_0099401",
+    "rank": 50,
+    "score": 0.6924,
+    "reasoning": "NLP Engineer with 7.7 years at Dream11 (Gaming); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 42% recruiter response; 90d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Dream11",
+      "industry": "Gaming",
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "years": 7.7
+    },
+    "dimensions": {
+      "productionSearch": 0.6814545454545454,
+      "appliedEngineering": 0.7239804496578689,
+      "evaluationMaturity": 0.37065909090909094,
+      "availabilityLogistics": 0.8267265714285714,
+      "trustConsistency": 0.8631666666666666
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Qdrant",
+      "BM25",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.42,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-27",
+      "githubActivity": 24.1,
+      "savedByRecruiters30d": 62
+    }
+  },
+  {
+    "candidate_id": "CAND_0041610",
+    "rank": 51,
+    "score": 0.6906,
+    "reasoning": "Recommendation Systems Engineer with 6.7 years at Zoho (SaaS); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 52% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Zoho",
+      "industry": "SaaS",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years": 6.7
+    },
+    "dimensions": {
+      "productionSearch": 0.7355030303030303,
+      "appliedEngineering": 0.7037183528836755,
+      "evaluationMaturity": 0.1343757575757576,
+      "availabilityLogistics": 0.9005099047619048,
+      "trustConsistency": 0.9146333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Elasticsearch",
+      "OpenSearch",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.52,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-14",
+      "githubActivity": 52.1,
+      "savedByRecruiters30d": 18
+    }
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "rank": 52,
+    "score": 0.6896,
+    "reasoning": "Machine Learning Engineer with 5.7 years at Verloop.io (Conversational AI); evidence includes ranking, Qdrant, Weaviate tied to the JD's search/ranking mandate. Platform fit: open to work; 92% recruiter response; 60d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Verloop.io",
+      "industry": "Conversational AI",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years": 5.7
+    },
+    "dimensions": {
+      "productionSearch": 0.5167878787878788,
+      "appliedEngineering": 0.7343356549364614,
+      "evaluationMaturity": 0.6076212121212122,
+      "availabilityLogistics": 0.896008380952381,
+      "trustConsistency": 0.9089
+    },
+    "evidence": [
+      "ranking",
+      "Qdrant",
+      "Weaviate",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing",
+      "Kubernetes"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.92,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-03-31",
+      "githubActivity": 59.7,
+      "savedByRecruiters30d": 9
+    }
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "rank": 53,
+    "score": 0.6849,
+    "reasoning": "AI Engineer with 7.3 years at Google (Internet); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 78% recruiter response; 30d notice.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Google",
+      "industry": "Internet",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years": 7.3
+    },
+    "dimensions": {
+      "productionSearch": 0.7467878787878787,
+      "appliedEngineering": 0.6650365347018572,
+      "evaluationMaturity": 0.09636363636363637,
+      "availabilityLogistics": 0.9180297142857143,
+      "trustConsistency": 0.9222333333333332
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.78,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-23",
+      "githubActivity": 52.7,
+      "savedByRecruiters30d": 9
+    }
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "rank": 54,
+    "score": 0.6814,
+    "reasoning": "Recommendation Systems Engineer with 6.0 years at Swiggy (Food Delivery); evidence includes recommendation system, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 91% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Swiggy",
+      "industry": "Food Delivery",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years": 6
+    },
+    "dimensions": {
+      "productionSearch": 0.5572848484848485,
+      "appliedEngineering": 0.7069650537634409,
+      "evaluationMaturity": 0.5787000000000001,
+      "availabilityLogistics": 0.9198560952380953,
+      "trustConsistency": 0.8011333333333334
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "sentence-transformers",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.91,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-24",
+      "githubActivity": 32.6,
+      "savedByRecruiters30d": 13
+    }
+  },
+  {
+    "candidate_id": "CAND_0095528",
+    "rank": 55,
+    "score": 0.6804,
+    "reasoning": "Senior Data Scientist with 5.3 years at Netflix (Media); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 55% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Netflix",
+      "industry": "Media",
+      "location": "Indore, Madhya Pradesh",
+      "country": "India",
+      "years": 5.3
+    },
+    "dimensions": {
+      "productionSearch": 0.650169696969697,
+      "appliedEngineering": 0.7521286656891496,
+      "evaluationMaturity": 0.33667121212121215,
+      "availabilityLogistics": 0.7786860000000002,
+      "trustConsistency": 0.9008
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Qdrant",
+      "Elasticsearch",
+      "OpenSearch",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.55,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 25
+    }
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "rank": 56,
+    "score": 0.6799,
+    "reasoning": "Senior Data Scientist with 5.3 years at Razorpay (Fintech); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 66% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Razorpay",
+      "industry": "Fintech",
+      "location": "Chandigarh, Chandigarh",
+      "country": "India",
+      "years": 5.3
+    },
+    "dimensions": {
+      "productionSearch": 0.7267878787878786,
+      "appliedEngineering": 0.6932623411534701,
+      "evaluationMaturity": 0.09636363636363637,
+      "availabilityLogistics": 0.8202833333333335,
+      "trustConsistency": 0.9955999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Milvus",
+      "Elasticsearch",
+      "API engineering",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.66,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-11",
+      "githubActivity": 81.5,
+      "savedByRecruiters30d": 56
+    }
+  },
+  {
+    "candidate_id": "CAND_0091909",
+    "rank": 57,
+    "score": 0.6779,
+    "reasoning": "Machine Learning Engineer with 6.9 years at Rephrase.ai (AI/ML); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 65% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Bangalore, Karnataka",
+      "country": "India",
+      "years": 6.9
+    },
+    "dimensions": {
+      "productionSearch": 0.5189575757575757,
+      "appliedEngineering": 0.6747069892473119,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.8802420000000001,
+      "trustConsistency": 0.9458333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Pinecone",
+      "Qdrant",
+      "OpenSearch",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.65,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-03-18",
+      "githubActivity": 49.7,
+      "savedByRecruiters30d": 64
+    }
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "rank": 58,
+    "score": 0.6767,
+    "reasoning": "Senior Data Scientist with 6.5 years at Flipkart (E-commerce); evidence includes embeddings, ranking, RAG tied to the JD's search/ranking mandate. Platform fit: not marked open; 67% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Flipkart",
+      "industry": "E-commerce",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years": 6.5
+    },
+    "dimensions": {
+      "productionSearch": 0.5440363636363637,
+      "appliedEngineering": 0.6666424731182795,
+      "evaluationMaturity": 0.5744333333333335,
+      "availabilityLogistics": 0.85292,
+      "trustConsistency": 0.9259999999999999
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "RAG",
+      "Pinecone",
+      "Weaviate",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing",
+      "API engineering"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.67,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-04-13",
+      "githubActivity": 78.7,
+      "savedByRecruiters30d": 16
+    }
+  },
+  {
+    "candidate_id": "CAND_0043228",
+    "rank": 59,
+    "score": 0.6756,
+    "reasoning": "Applied ML Engineer with 6.8 years at Zoho (SaaS); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 41% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Zoho",
+      "industry": "SaaS",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 6.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6826060606060607,
+      "appliedEngineering": 0.7609555229716519,
+      "evaluationMaturity": 0.14981818181818185,
+      "availabilityLogistics": 0.7708706666666668,
+      "trustConsistency": 0.9759333333333333
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Weaviate",
+      "Elasticsearch",
+      "API engineering",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.41,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-22",
+      "githubActivity": 47.6,
+      "savedByRecruiters30d": 65
+    }
+  },
+  {
+    "candidate_id": "CAND_0007009",
+    "rank": 60,
+    "score": 0.6748,
+    "reasoning": "Recommendation Systems Engineer with 7.9 years at Wysa (HealthTech AI); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 62% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Wysa",
+      "industry": "HealthTech AI",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 7.9
+    },
+    "dimensions": {
+      "productionSearch": 0.7327030303030303,
+      "appliedEngineering": 0.6448984604105572,
+      "evaluationMaturity": 0.0965090909090909,
+      "availabilityLogistics": 0.847197142857143,
+      "trustConsistency": 0.9855999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.62,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-03-19",
+      "githubActivity": 69.2,
+      "savedByRecruiters30d": 5
+    }
+  },
+  {
+    "candidate_id": "CAND_0051292",
+    "rank": 61,
+    "score": 0.6726,
+    "reasoning": "Applied ML Engineer with 5.2 years at Freshworks (SaaS); evidence includes semantic search, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 52% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Freshworks",
+      "industry": "SaaS",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 5.2
+    },
+    "dimensions": {
+      "productionSearch": 0.766521212121212,
+      "appliedEngineering": 0.6650365347018572,
+      "evaluationMaturity": 0.11663030303030303,
+      "availabilityLogistics": 0.7709448571428572,
+      "trustConsistency": 0.9211999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "embeddings",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.52,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-12",
+      "githubActivity": 61.7,
+      "savedByRecruiters30d": 9
+    }
+  },
+  {
+    "candidate_id": "CAND_0006557",
+    "rank": 62,
+    "score": 0.6722,
+    "reasoning": "NLP Engineer with 7.9 years at Paytm (Fintech); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 63% recruiter response; 120d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Paytm",
+      "industry": "Fintech",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 7.9
+    },
+    "dimensions": {
+      "productionSearch": 0.7038181818181819,
+      "appliedEngineering": 0.6360251710654936,
+      "evaluationMaturity": 0.31720454545454546,
+      "availabilityLogistics": 0.8233753333333333,
+      "trustConsistency": 0.8504
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.63,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-10",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 53
+    }
+  },
+  {
+    "candidate_id": "CAND_0069905",
+    "rank": 63,
+    "score": 0.6722,
+    "reasoning": "Applied ML Engineer with 6.6 years at Sarvam AI (AI/ML); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 78% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Sarvam AI",
+      "industry": "AI/ML",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years": 6.6
+    },
+    "dimensions": {
+      "productionSearch": 0.7160363636363637,
+      "appliedEngineering": 0.6771565249266862,
+      "evaluationMaturity": 0.0965090909090909,
+      "availabilityLogistics": 0.8890773333333334,
+      "trustConsistency": 0.9218666666666666
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "Python",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.78,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-21",
+      "githubActivity": 44.8,
+      "savedByRecruiters30d": 57
+    }
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "rank": 64,
+    "score": 0.67,
+    "reasoning": "Machine Learning Engineer with 5.7 years at Haptik (Conversational AI); evidence includes embeddings, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 58% recruiter response; 60d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Haptik",
+      "industry": "Conversational AI",
+      "location": "Bangalore, Karnataka",
+      "country": "India",
+      "years": 5.7
+    },
+    "dimensions": {
+      "productionSearch": 0.6485333333333333,
+      "appliedEngineering": 0.6372069892473119,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.9041204761904763,
+      "trustConsistency": 0.6164333333333333
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "search",
+      "RAG",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.58,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-17",
+      "githubActivity": 37.7,
+      "savedByRecruiters30d": 24
+    }
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "rank": 65,
+    "score": 0.6698,
+    "reasoning": "Applied ML Engineer with 5.0 years at upGrad (EdTech); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 84% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "upGrad",
+      "industry": "EdTech",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years": 5
+    },
+    "dimensions": {
+      "productionSearch": 0.48289696969696966,
+      "appliedEngineering": 0.7230940860215054,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.8367633333333335,
+      "trustConsistency": 0.9546
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Pinecone",
+      "Weaviate",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.84,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-05-21",
+      "githubActivity": 80.5,
+      "savedByRecruiters30d": 18
+    }
+  },
+  {
+    "candidate_id": "CAND_0005538",
+    "rank": 66,
+    "score": 0.6691,
+    "reasoning": "Senior AI Engineer with 5.9 years at Adobe (Software); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 81% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Senior AI Engineer",
+      "company": "Adobe",
+      "industry": "Software",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 5.9
+    },
+    "dimensions": {
+      "productionSearch": 0.5200484848484848,
+      "appliedEngineering": 0.7835083088954057,
+      "evaluationMaturity": 0.415580303030303,
+      "availabilityLogistics": 0.7936598095238097,
+      "trustConsistency": 0.9930666666666667
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "pgvector",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.81,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-17",
+      "githubActivity": 58,
+      "savedByRecruiters30d": 20
+    }
+  },
+  {
+    "candidate_id": "CAND_0064904",
+    "rank": 67,
+    "score": 0.6669,
+    "reasoning": "AI Engineer with 4.9 years at LinkedIn (Internet); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 78% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "LinkedIn",
+      "industry": "Internet",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years": 4.9
+    },
+    "dimensions": {
+      "productionSearch": 0.6274424242424242,
+      "appliedEngineering": 0.7579544721407624,
+      "evaluationMaturity": 0.33667121212121215,
+      "availabilityLogistics": 0.7346097142857144,
+      "trustConsistency": 0.8999333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Weaviate",
+      "Elasticsearch",
+      "OpenSearch",
+      "A/B testing",
+      "Python",
+      "API engineering"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.78,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-03-17",
+      "githubActivity": 59,
+      "savedByRecruiters30d": 39
+    }
+  },
+  {
+    "candidate_id": "CAND_0036184",
+    "rank": 68,
+    "score": 0.6665,
+    "reasoning": "Recommendation Systems Engineer with 6.0 years at CRED (Fintech); evidence includes semantic search, recommendation system, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 90% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "CRED",
+      "industry": "Fintech",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 6
+    },
+    "dimensions": {
+      "productionSearch": 0.7396363636363635,
+      "appliedEngineering": 0.6287694281524927,
+      "evaluationMaturity": 0.07624242424242424,
+      "availabilityLogistics": 0.8337136190476191,
+      "trustConsistency": 0.9692000000000001
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "retrieval",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.9,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-26",
+      "githubActivity": 43.2,
+      "savedByRecruiters30d": 30
+    }
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "rank": 69,
+    "score": 0.665,
+    "reasoning": "Recommendation Systems Engineer with 5.9 years at Microsoft (Software); evidence includes recommendation system, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 63% recruiter response; 15d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Microsoft",
+      "industry": "Software",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years": 5.9
+    },
+    "dimensions": {
+      "productionSearch": 0.6494060606060605,
+      "appliedEngineering": 0.7037183528836755,
+      "evaluationMaturity": 0.11410909090909091,
+      "availabilityLogistics": 0.8993053333333334,
+      "trustConsistency": 0.9663999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "OpenSearch",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.63,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-04-05",
+      "githubActivity": 94.4,
+      "savedByRecruiters30d": 29
+    }
+  },
+  {
+    "candidate_id": "CAND_0027801",
+    "rank": 70,
+    "score": 0.6639,
+    "reasoning": "NLP Engineer with 7.4 years at InMobi (AdTech); evidence includes semantic search, recommendation system, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 65% recruiter response; 120d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "InMobi",
+      "industry": "AdTech",
+      "location": "Hyderabad, Telangana",
+      "country": "India",
+      "years": 7.4
+    },
+    "dimensions": {
+      "productionSearch": 0.6887878787878786,
+      "appliedEngineering": 0.6964626099706744,
+      "evaluationMaturity": 0.1296969696969697,
+      "availabilityLogistics": 0.7877252380952382,
+      "trustConsistency": 0.973
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "retrieval",
+      "search",
+      "FAISS",
+      "Milvus",
+      "Elasticsearch",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.65,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-12",
+      "githubActivity": 63.3,
+      "savedByRecruiters30d": 65
+    }
+  },
+  {
+    "candidate_id": "CAND_0055992",
+    "rank": 71,
+    "score": 0.6638,
+    "reasoning": "AI Engineer with 16.9 years at CRED (Fintech); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 72% recruiter response; 60d notice. Concern: outside India but willing to relocate.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "CRED",
+      "industry": "Fintech",
+      "location": "Sydney",
+      "country": "Australia",
+      "years": 16.9
+    },
+    "dimensions": {
+      "productionSearch": 0.898121212121212,
+      "appliedEngineering": 0.5946365347018573,
+      "evaluationMaturity": 0.3721136363636364,
+      "availabilityLogistics": 0.5556457142857143,
+      "trustConsistency": 0.9421999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [
+      "outside India but willing to relocate"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.72,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-03-28",
+      "githubActivity": 65.3,
+      "savedByRecruiters30d": 57
+    }
+  },
+  {
+    "candidate_id": "CAND_0047721",
+    "rank": 72,
+    "score": 0.6626,
+    "reasoning": "Senior Data Scientist with 7.0 years at Microsoft (Software); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 49% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Microsoft",
+      "industry": "Software",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 7
+    },
+    "dimensions": {
+      "productionSearch": 0.6274545454545455,
+      "appliedEngineering": 0.6682832355816226,
+      "evaluationMaturity": 0.31720454545454546,
+      "availabilityLogistics": 0.7956353333333334,
+      "trustConsistency": 0.9491999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "FAISS",
+      "Qdrant",
+      "Milvus",
+      "A/B testing",
+      "feature pipelines",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.49,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-05",
+      "githubActivity": 90.1,
+      "savedByRecruiters30d": 56
+    }
+  },
+  {
+    "candidate_id": "CAND_0010770",
+    "rank": 73,
+    "score": 0.662,
+    "reasoning": "Recommendation Systems Engineer with 15.2 years at Aganitha (AI/ML); evidence includes semantic search, recommendation system, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 73% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Aganitha",
+      "industry": "AI/ML",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 15.2
+    },
+    "dimensions": {
+      "productionSearch": 0.6636363636363636,
+      "appliedEngineering": 0.6938022238514174,
+      "evaluationMaturity": 0.6304090909090909,
+      "availabilityLogistics": 0.6601066666666667,
+      "trustConsistency": 0.6492
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "retrieval",
+      "ranking",
+      "FAISS",
+      "Qdrant",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing",
+      "API engineering",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.73,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-05",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 12
+    }
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "rank": 74,
+    "score": 0.6555,
+    "reasoning": "NLP Engineer with 5.4 years at Glance (AI/ML); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 83% recruiter response; 90d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Glance",
+      "industry": "AI/ML",
+      "location": "Chandigarh, Chandigarh",
+      "country": "India",
+      "years": 5.4
+    },
+    "dimensions": {
+      "productionSearch": 0.5734424242424242,
+      "appliedEngineering": 0.6714835043988269,
+      "evaluationMaturity": 0.33667121212121215,
+      "availabilityLogistics": 0.863212,
+      "trustConsistency": 0.9366
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Qdrant",
+      "Weaviate",
+      "OpenSearch",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.83,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-03-31",
+      "githubActivity": 77.7,
+      "savedByRecruiters30d": 40
+    }
+  },
+  {
+    "candidate_id": "CAND_0015528",
+    "rank": 75,
+    "score": 0.6532,
+    "reasoning": "Applied ML Engineer with 7.4 years at Krutrim (AI/ML); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 53% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Krutrim",
+      "industry": "AI/ML",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 7.4
+    },
+    "dimensions": {
+      "productionSearch": 0.6034424242424242,
+      "appliedEngineering": 0.6997093108504399,
+      "evaluationMaturity": 0.33667121212121215,
+      "availabilityLogistics": 0.7298397142857145,
+      "trustConsistency": 0.9473333333333334
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "FAISS",
+      "Weaviate",
+      "OpenSearch",
+      "A/B testing",
+      "feature pipelines",
+      "Docker"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.53,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-16",
+      "githubActivity": 50.6,
+      "savedByRecruiters30d": 3
+    }
+  },
+  {
+    "candidate_id": "CAND_0018549",
+    "rank": 76,
+    "score": 0.6526,
+    "reasoning": "Recommendation Systems Engineer with 6.8 years at Uber (Transportation); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 73% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Uber",
+      "industry": "Transportation",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 6.8
+    },
+    "dimensions": {
+      "productionSearch": 0.5604848484848485,
+      "appliedEngineering": 0.6642509775171065,
+      "evaluationMaturity": 0.31720454545454546,
+      "availabilityLogistics": 0.896051238095238,
+      "trustConsistency": 0.9438333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Qdrant",
+      "Weaviate",
+      "Milvus",
+      "A/B testing",
+      "feature pipelines",
+      "Kubernetes"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.73,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-28",
+      "githubActivity": 56.3,
+      "savedByRecruiters30d": 15
+    }
+  },
+  {
+    "candidate_id": "CAND_0075249",
+    "rank": 77,
+    "score": 0.6504,
+    "reasoning": "Applied ML Engineer with 6.2 years at Zomato (Food Delivery); evidence includes semantic search, recommendation system, embeddings tied to the JD's search/ranking mandate. Platform fit: open to work; 82% recruiter response; 45d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Zomato",
+      "industry": "Food Delivery",
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "years": 6.2
+    },
+    "dimensions": {
+      "productionSearch": 0.6828363636363636,
+      "appliedEngineering": 0.6328016862170088,
+      "evaluationMaturity": 0.343459090909091,
+      "availabilityLogistics": 0.7740047619047621,
+      "trustConsistency": 0.7815333333333333
+    },
+    "evidence": [
+      "semantic search",
+      "recommendation system",
+      "embeddings",
+      "retrieval",
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.82,
+      "noticeDays": 45,
+      "lastActiveDate": "2026-04-09",
+      "githubActivity": 36.8,
+      "savedByRecruiters30d": 9
+    }
+  },
+  {
+    "candidate_id": "CAND_0045250",
+    "rank": 78,
+    "score": 0.65,
+    "reasoning": "Applied ML Engineer with 6.6 years at Rephrase.ai (AI/ML); evidence includes ranking, Qdrant, Milvus tied to the JD's search/ranking mandate. Platform fit: not marked open; 74% recruiter response; 15d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Delhi, Delhi",
+      "country": "India",
+      "years": 6.6
+    },
+    "dimensions": {
+      "productionSearch": 0.506969696969697,
+      "appliedEngineering": 0.7061098484848484,
+      "evaluationMaturity": 0.6076212121212122,
+      "availabilityLogistics": 0.8165220000000002,
+      "trustConsistency": 0.7846
+    },
+    "evidence": [
+      "ranking",
+      "Qdrant",
+      "Milvus",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.74,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-04-29",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 39
+    }
+  },
+  {
+    "candidate_id": "CAND_0087364",
+    "rank": 79,
+    "score": 0.6487,
+    "reasoning": "Recommendation Systems Engineer with 4.9 years at Glance (AI/ML); evidence includes recommendation system, ranking, Pinecone tied to the JD's search/ranking mandate. Platform fit: not marked open; 48% recruiter response; 30d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Glance",
+      "industry": "AI/ML",
+      "location": "Gurgaon, Haryana",
+      "country": "India",
+      "years": 4.9
+    },
+    "dimensions": {
+      "productionSearch": 0.5438181818181818,
+      "appliedEngineering": 0.7119356549364614,
+      "evaluationMaturity": 0.6236212121212121,
+      "availabilityLogistics": 0.721387523809524,
+      "trustConsistency": 0.7615333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "Pinecone",
+      "Qdrant",
+      "Milvus",
+      "offline-online calibration",
+      "A/B testing",
+      "Docker"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.48,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-30",
+      "githubActivity": 21.8,
+      "savedByRecruiters30d": 50
+    }
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "rank": 80,
+    "score": 0.6478,
+    "reasoning": "Senior Data Scientist with 4.9 years at Vedantu (EdTech); evidence includes embeddings, ranking, RAG tied to the JD's search/ranking mandate. Platform fit: open to work; 42% recruiter response; 30d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Vedantu",
+      "industry": "EdTech",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 4.9
+    },
+    "dimensions": {
+      "productionSearch": 0.5675515151515153,
+      "appliedEngineering": 0.6644037634408603,
+      "evaluationMaturity": 0.5744333333333335,
+      "availabilityLogistics": 0.6826920000000001,
+      "trustConsistency": 0.8513999999999999
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "RAG",
+      "Pinecone",
+      "OpenSearch",
+      "BM25",
+      "offline-online calibration",
+      "A/B testing",
+      "Python"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.42,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-03-22",
+      "githubActivity": 83,
+      "savedByRecruiters30d": 17
+    }
+  },
+  {
+    "candidate_id": "CAND_0049896",
+    "rank": 81,
+    "score": 0.6448,
+    "reasoning": "Search Engineer with 7.3 years at Unacademy (EdTech); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 43% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Unacademy",
+      "industry": "EdTech",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 7.3
+    },
+    "dimensions": {
+      "productionSearch": 0.6164727272727273,
+      "appliedEngineering": 0.6037903225806451,
+      "evaluationMaturity": 0.2992166666666667,
+      "availabilityLogistics": 0.844288,
+      "trustConsistency": 0.9114
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "sentence-transformers",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.43,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-17",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 44
+    }
+  },
+  {
+    "candidate_id": "CAND_0089552",
+    "rank": 82,
+    "score": 0.6439,
+    "reasoning": "Machine Learning Engineer with 6.0 years at Netflix (Media); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 49% recruiter response; 120d notice.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Netflix",
+      "industry": "Media",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 6
+    },
+    "dimensions": {
+      "productionSearch": 0.6464,
+      "appliedEngineering": 0.6037903225806451,
+      "evaluationMaturity": 0.29068333333333335,
+      "availabilityLogistics": 0.7925084761904762,
+      "trustConsistency": 0.8961999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "RAG",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.49,
+      "noticeDays": 120,
+      "lastActiveDate": "2026-04-27",
+      "githubActivity": 38.4,
+      "savedByRecruiters30d": 50
+    }
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "rank": 83,
+    "score": 0.6424,
+    "reasoning": "Applied ML Engineer with 6.0 years at Freshworks (SaaS); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 67% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Freshworks",
+      "industry": "SaaS",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 6
+    },
+    "dimensions": {
+      "productionSearch": 0.5375757575757576,
+      "appliedEngineering": 0.7166703323558162,
+      "evaluationMaturity": 0.31720454545454546,
+      "availabilityLogistics": 0.7717193333333334,
+      "trustConsistency": 0.9835999999999999
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "FAISS",
+      "Qdrant",
+      "OpenSearch",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.67,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-26",
+      "githubActivity": 86.1,
+      "savedByRecruiters30d": 3
+    }
+  },
+  {
+    "candidate_id": "CAND_0029367",
+    "rank": 84,
+    "score": 0.6406,
+    "reasoning": "Senior Data Scientist with 5.7 years at Rephrase.ai (AI/ML); evidence includes semantic search, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 77% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Bangalore, Karnataka",
+      "country": "India",
+      "years": 5.7
+    },
+    "dimensions": {
+      "productionSearch": 0.7387030303030303,
+      "appliedEngineering": 0.5965113636363636,
+      "evaluationMaturity": 0.08050909090909092,
+      "availabilityLogistics": 0.833345142857143,
+      "trustConsistency": 0.8381333333333334
+    },
+    "evidence": [
+      "semantic search",
+      "embeddings",
+      "retrieval",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.77,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-20",
+      "githubActivity": 39.8,
+      "savedByRecruiters30d": 7
+    }
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "rank": 85,
+    "score": 0.6398,
+    "reasoning": "Senior AI Engineer with 7.9 years at Meta (Internet); evidence includes ranking, search, BM25 tied to the JD's search/ranking mandate. Platform fit: open to work; 79% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Senior AI Engineer",
+      "company": "Meta",
+      "industry": "Internet",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 7.9
+    },
+    "dimensions": {
+      "productionSearch": 0.4466787878787879,
+      "appliedEngineering": 0.7738842864125122,
+      "evaluationMaturity": 0.33676818181818186,
+      "availabilityLogistics": 0.9584117142857144,
+      "trustConsistency": 0.8958666666666666
+    },
+    "evidence": [
+      "ranking",
+      "search",
+      "BM25",
+      "A/B testing",
+      "Python",
+      "backend engineering"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.79,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-05-03",
+      "githubActivity": 35.2,
+      "savedByRecruiters30d": 76
+    }
+  },
+  {
+    "candidate_id": "CAND_0011432",
+    "rank": 86,
+    "score": 0.6396,
+    "reasoning": "Senior Data Scientist with 7.6 years at Amazon (Internet); evidence includes embeddings, ranking, RAG tied to the JD's search/ranking mandate. Platform fit: open to work; 67% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Senior Data Scientist",
+      "company": "Amazon",
+      "industry": "Internet",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 7.6
+    },
+    "dimensions": {
+      "productionSearch": 0.4708848484848485,
+      "appliedEngineering": 0.6706747311827957,
+      "evaluationMaturity": 0.5744333333333335,
+      "availabilityLogistics": 0.7718387619047621,
+      "trustConsistency": 0.9249333333333333
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "RAG",
+      "Pinecone",
+      "Elasticsearch",
+      "OpenSearch",
+      "offline-online calibration",
+      "A/B testing",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.67,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-03-16",
+      "githubActivity": 20,
+      "savedByRecruiters30d": 13
+    }
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "rank": 87,
+    "score": 0.6383,
+    "reasoning": "Search Engineer with 4.2 years at Verloop.io (Conversational AI); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 48% recruiter response; 15d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Verloop.io",
+      "industry": "Conversational AI",
+      "location": "Mumbai, Maharashtra",
+      "country": "India",
+      "years": 4.2
+    },
+    "dimensions": {
+      "productionSearch": 0.7212,
+      "appliedEngineering": 0.6136483870967742,
+      "evaluationMaturity": 0.2992166666666667,
+      "availabilityLogistics": 0.7765599047619048,
+      "trustConsistency": 0.6786
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Qdrant",
+      "A/B testing",
+      "feature pipelines",
+      "Airflow"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.48,
+      "noticeDays": 15,
+      "lastActiveDate": "2026-05-22",
+      "githubActivity": 64,
+      "savedByRecruiters30d": 49
+    }
+  },
+  {
+    "candidate_id": "CAND_0022812",
+    "rank": 88,
+    "score": 0.638,
+    "reasoning": "Applied ML Engineer with 4.5 years at Dream11 (Gaming); evidence includes recommendation system, ranking, search tied to the JD's search/ranking mandate. Platform fit: not marked open; 79% recruiter response; 60d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Dream11",
+      "industry": "Gaming",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 4.5
+    },
+    "dimensions": {
+      "productionSearch": 0.5386181818181818,
+      "appliedEngineering": 0.7845163000977516,
+      "evaluationMaturity": 0.6321545454545455,
+      "availabilityLogistics": 0.7556533333333333,
+      "trustConsistency": 0.5626
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing",
+      "feature pipelines",
+      "Spark"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.79,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-03-19",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 51
+    }
+  },
+  {
+    "candidate_id": "CAND_0088025",
+    "rank": 89,
+    "score": 0.6367,
+    "reasoning": "Staff Machine Learning Engineer with 8.6 years at Yellow.ai (AI/ML); evidence includes retrieval, ranking, search tied to the JD's search/ranking mandate. Platform fit: open to work; 83% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Yellow.ai",
+      "industry": "AI/ML",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 8.6
+    },
+    "dimensions": {
+      "productionSearch": 0.5474545454545454,
+      "appliedEngineering": 0.6718913734115346,
+      "evaluationMaturity": 0.32944696969696974,
+      "availabilityLogistics": 0.8012833333333335,
+      "trustConsistency": 0.9406
+    },
+    "evidence": [
+      "retrieval",
+      "ranking",
+      "search",
+      "RAG",
+      "Pinecone",
+      "Elasticsearch",
+      "BM25",
+      "A/B testing",
+      "Python",
+      "MLOps"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.83,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-05-14",
+      "githubActivity": 74.6,
+      "savedByRecruiters30d": 19
+    }
+  },
+  {
+    "candidate_id": "CAND_0039838",
+    "rank": 90,
+    "score": 0.6359,
+    "reasoning": "Recommendation Systems Engineer with 4.9 years at Amazon (Internet); evidence includes recommendation system, ranking, Milvus tied to the JD's search/ranking mandate. Platform fit: open to work; 80% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Amazon",
+      "industry": "Internet",
+      "location": "Kochi, Kerala",
+      "country": "India",
+      "years": 4.9
+    },
+    "dimensions": {
+      "productionSearch": 0.5923636363636363,
+      "appliedEngineering": 0.7482259775171065,
+      "evaluationMaturity": 0.6236212121212121,
+      "availabilityLogistics": 0.707039142857143,
+      "trustConsistency": 0.5287
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "Milvus",
+      "OpenSearch",
+      "offline-online calibration",
+      "A/B testing",
+      "Kafka",
+      "MLOps"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.8,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-21",
+      "githubActivity": 36.3,
+      "savedByRecruiters30d": 37
+    }
+  },
+  {
+    "candidate_id": "CAND_0058575",
+    "rank": 91,
+    "score": 0.6359,
+    "reasoning": "AI Engineer with 5.8 years at Krutrim (AI/ML); evidence includes semantic search, embeddings, retrieval tied to the JD's search/ranking mandate. Platform fit: open to work; 69% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "AI Engineer",
+      "company": "Krutrim",
+      "industry": "AI/ML",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years": 5.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6778545454545454,
+      "appliedEngineering": 0.6964626099706744,
+      "evaluationMaturity": 0.13396363636363637,
+      "availabilityLogistics": 0.8506738095238094,
+      "trustConsistency": 0.7441666666666668
+    },
+    "evidence": [
+      "semantic search",
+      "embeddings",
+      "retrieval",
+      "search",
+      "FAISS",
+      "Pinecone",
+      "Elasticsearch",
+      "MLOps"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.69,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-05",
+      "githubActivity": 34.9,
+      "savedByRecruiters30d": 47
+    }
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "rank": 92,
+    "score": 0.6347,
+    "reasoning": "Applied ML Engineer with 5.8 years at Saarthi.ai (Voice AI); evidence includes recommendation system, ranking, search tied to the JD's search/ranking mandate. Platform fit: not marked open; 72% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Applied ML Engineer",
+      "company": "Saarthi.ai",
+      "industry": "Voice AI",
+      "location": "Jaipur, Rajasthan",
+      "country": "India",
+      "years": 5.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6235878787878787,
+      "appliedEngineering": 0.7037183528836755,
+      "evaluationMaturity": 0.11410909090909091,
+      "availabilityLogistics": 0.7983826666666668,
+      "trustConsistency": 0.9258
+    },
+    "evidence": [
+      "recommendation system",
+      "ranking",
+      "search",
+      "Milvus",
+      "Elasticsearch",
+      "OpenSearch",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.72,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-27",
+      "githubActivity": 90.8,
+      "savedByRecruiters30d": 60
+    }
+  },
+  {
+    "candidate_id": "CAND_0048558",
+    "rank": 93,
+    "score": 0.6334,
+    "reasoning": "Data Scientist with 6.7 years at Rephrase.ai (AI/ML); evidence includes ranking system, ranking, Qdrant tied to the JD's search/ranking mandate. Platform fit: open to work; 80% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Data Scientist",
+      "company": "Rephrase.ai",
+      "industry": "AI/ML",
+      "location": "Noida, Uttar Pradesh",
+      "country": "India",
+      "years": 6.7
+    },
+    "dimensions": {
+      "productionSearch": 0.5102060606060606,
+      "appliedEngineering": 0.782769183773216,
+      "evaluationMaturity": 0.08627878787878789,
+      "availabilityLogistics": 0.9775293333333334,
+      "trustConsistency": 0.9249999999999999
+    },
+    "evidence": [
+      "ranking system",
+      "ranking",
+      "Qdrant",
+      "Elasticsearch",
+      "OpenSearch",
+      "API engineering",
+      "Spark"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.8,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-27",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 30
+    }
+  },
+  {
+    "candidate_id": "CAND_0078002",
+    "rank": 94,
+    "score": 0.632,
+    "reasoning": "Machine Learning Engineer with 6.3 years at Meta (Internet); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 86% recruiter response; 60d notice.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Meta",
+      "industry": "Internet",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 6.3
+    },
+    "dimensions": {
+      "productionSearch": 0.41047272727272727,
+      "appliedEngineering": 0.6654327956989247,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.809120380952381,
+      "trustConsistency": 0.9759333333333333
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "Weaviate",
+      "pgvector",
+      "offline-online calibration",
+      "A/B testing",
+      "API engineering",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.86,
+      "noticeDays": 60,
+      "lastActiveDate": "2026-04-21",
+      "githubActivity": 50.6,
+      "savedByRecruiters30d": 6
+    }
+  },
+  {
+    "candidate_id": "CAND_0052682",
+    "rank": 95,
+    "score": 0.6302,
+    "reasoning": "NLP Engineer with 6.6 years at Aganitha (AI/ML); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 88% recruiter response; 30d notice.",
+    "profile": {
+      "title": "NLP Engineer",
+      "company": "Aganitha",
+      "industry": "AI/ML",
+      "location": "Vizag, Andhra Pradesh",
+      "country": "India",
+      "years": 6.6
+    },
+    "dimensions": {
+      "productionSearch": 0.5348242424242424,
+      "appliedEngineering": 0.6521774193548386,
+      "evaluationMaturity": 0.29068333333333335,
+      "availabilityLogistics": 0.8023600000000002,
+      "trustConsistency": 0.9908
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "RAG",
+      "FAISS",
+      "Pinecone",
+      "A/B testing",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.88,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-03-28",
+      "githubActivity": 72.4,
+      "savedByRecruiters30d": 16
+    }
+  },
+  {
+    "candidate_id": "CAND_0031593",
+    "rank": 96,
+    "score": 0.6302,
+    "reasoning": "Search Engineer with 7.8 years at Genpact AI (AI Services); evidence includes recommendation system, embeddings, ranking tied to the JD's search/ranking mandate. Platform fit: open to work; 58% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Genpact AI",
+      "industry": "AI Services",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 7.8
+    },
+    "dimensions": {
+      "productionSearch": 0.6307757575757575,
+      "appliedEngineering": 0.5235251710654937,
+      "evaluationMaturity": 0.32467121212121214,
+      "availabilityLogistics": 0.8477821904761905,
+      "trustConsistency": 0.8588666666666666
+    },
+    "evidence": [
+      "recommendation system",
+      "embeddings",
+      "ranking",
+      "search",
+      "Pinecone",
+      "Elasticsearch",
+      "BM25",
+      "A/B testing",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.58,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-03-19",
+      "githubActivity": 23.2,
+      "savedByRecruiters30d": 17
+    }
+  },
+  {
+    "candidate_id": "CAND_0039521",
+    "rank": 97,
+    "score": 0.6297,
+    "reasoning": "Search Engineer with 3.0 years at Salesforce (Software); evidence includes embeddings, ranking, search tied to the JD's search/ranking mandate. Platform fit: not marked open; 41% recruiter response; 30d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Search Engineer",
+      "company": "Salesforce",
+      "industry": "Software",
+      "location": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "years": 3
+    },
+    "dimensions": {
+      "productionSearch": 0.6618666666666667,
+      "appliedEngineering": 0.5944166666666667,
+      "evaluationMaturity": 0.5829666666666667,
+      "availabilityLogistics": 0.5670273333333334,
+      "trustConsistency": 0.7114
+    },
+    "evidence": [
+      "embeddings",
+      "ranking",
+      "search",
+      "RAG",
+      "Pinecone",
+      "Qdrant",
+      "Weaviate",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.41,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-04-11",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 43
+    }
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "rank": 98,
+    "score": 0.6296,
+    "reasoning": "Junior ML Engineer with 6.1 years at Aganitha (AI/ML); evidence includes ranking system, ranking, Qdrant tied to the JD's search/ranking mandate. Platform fit: open to work; 81% recruiter response; 30d notice.",
+    "profile": {
+      "title": "Junior ML Engineer",
+      "company": "Aganitha",
+      "industry": "AI/ML",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years": 6.1
+    },
+    "dimensions": {
+      "productionSearch": 0.5510545454545455,
+      "appliedEngineering": 0.722285312805474,
+      "evaluationMaturity": 0.08627878787878789,
+      "availabilityLogistics": 0.9374006666666667,
+      "trustConsistency": 0.9249999999999999
+    },
+    "evidence": [
+      "ranking system",
+      "ranking",
+      "Qdrant",
+      "pgvector"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": true,
+      "responseRate": 0.81,
+      "noticeDays": 30,
+      "lastActiveDate": "2026-05-26",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 33
+    }
+  },
+  {
+    "candidate_id": "CAND_0051630",
+    "rank": 99,
+    "score": 0.6291,
+    "reasoning": "Machine Learning Engineer with 6.0 years at Razorpay (Fintech); evidence includes semantic search, retrieval, ranking tied to the JD's search/ranking mandate. Platform fit: not marked open; 51% recruiter response; 90d notice.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Razorpay",
+      "industry": "Fintech",
+      "location": "Kolkata, West Bengal",
+      "country": "India",
+      "years": 6
+    },
+    "dimensions": {
+      "productionSearch": 0.7534545454545454,
+      "appliedEngineering": 0.7134236314760507,
+      "evaluationMaturity": 0.09636363636363637,
+      "availabilityLogistics": 0.6890204761904762,
+      "trustConsistency": 0.6995999999999999
+    },
+    "evidence": [
+      "semantic search",
+      "retrieval",
+      "ranking",
+      "search",
+      "FAISS",
+      "Elasticsearch",
+      "OpenSearch",
+      "Python",
+      "feature pipelines"
+    ],
+    "concerns": [],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.51,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-04",
+      "githubActivity": 66.4,
+      "savedByRecruiters30d": 50
+    }
+  },
+  {
+    "candidate_id": "CAND_0056881",
+    "rank": 100,
+    "score": 0.6286,
+    "reasoning": "Machine Learning Engineer with 4.5 years at Zomato (Food Delivery); evidence includes ranking, search, Pinecone tied to the JD's search/ranking mandate. Platform fit: not marked open; 75% recruiter response; 90d notice. Concern: some skill durations exceed stated experience.",
+    "profile": {
+      "title": "Machine Learning Engineer",
+      "company": "Zomato",
+      "industry": "Food Delivery",
+      "location": "Trivandrum, Kerala",
+      "country": "India",
+      "years": 4.5
+    },
+    "dimensions": {
+      "productionSearch": 0.5264363636363636,
+      "appliedEngineering": 0.6837098484848484,
+      "evaluationMaturity": 0.6161545454545455,
+      "availabilityLogistics": 0.6695566666666668,
+      "trustConsistency": 0.765
+    },
+    "evidence": [
+      "ranking",
+      "search",
+      "Pinecone",
+      "Elasticsearch",
+      "offline-online calibration",
+      "A/B testing"
+    ],
+    "concerns": [
+      "some skill durations exceed stated experience"
+    ],
+    "signals": {
+      "openToWork": false,
+      "responseRate": 0.75,
+      "noticeDays": 90,
+      "lastActiveDate": "2026-04-26",
+      "githubActivity": -1,
+      "savedByRecruiters30d": 47
+    }
+  }
+]

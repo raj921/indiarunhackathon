@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Redrob Talent Intelligence Ranker</title>
+  <style>
+    @page { size: 16in 9in; margin: 0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #efe7d7; color: #17211b; font-family: Avenir Next, Trebuchet MS, sans-serif; }
+    .slide { page-break-after: always; width: 16in; height: 9in; padding: .72in .82in; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, #fffaf0, #eee2cc); border-bottom: 10px solid #0f766e; }
+    .kicker { letter-spacing: .16em; text-transform: uppercase; color: #0b4f4a; font-size: 17px; font-weight: 900; }
+    h1 { font-family: Georgia, serif; font-size: 62px; line-height: .96; margin: 18px 0 24px; max-width: 11.5in; }
+    h2 { font-size: 30px; margin: 0 0 14px; }
+    p, li { font-size: 23px; line-height: 1.42; }
+    ul { margin: 0; padding-left: 28px; max-width: 12in; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 20px; }
+    .card { border: 2px solid #d8cbb6; border-radius: 8px; background: rgba(255,255,255,.58); padding: 22px; min-height: 180px; }
+    .metric { font-size: 54px; font-weight: 950; color: #0f766e; }
+    .small { font-size: 18px; color: #5f574a; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; font-size: 18px; }
+    th, td { border-bottom: 1px solid #d8cbb6; text-align: left; padding: 12px; vertical-align: top; }
+    th { color: #0b4f4a; text-transform: uppercase; letter-spacing: .1em; font-size: 13px; }
+  </style>
+</head>
+<body>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Candidate ranking that behaves like a strong recruiter</h1><p>Built for the Senior AI Engineer founding-team JD: not keyword search, but evidence-weighted understanding of search/ranking systems, product shipping, evaluation maturity, hireability, and trap avoidance.</p></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>What the JD actually asks for</h1><div class="grid">
+    <div class="card"><h2>Production search</h2><p>Embeddings, retrieval, ranking, recommender systems, hybrid/vector infrastructure.</p></div>
+    <div class="card"><h2>Shipper mindset</h2><p>Python, backend/data infra, production ownership, product-company judgment.</p></div>
+    <div class="card"><h2>Evaluation maturity</h2><p>NDCG, MRR, MAP, offline benchmarks, A/B testing, feedback loops.</p></div>
+  </div></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Architecture</h1><ul>
+    <li>Stream <code>candidates.jsonl</code> line-by-line; keep only the strongest shortlist in memory.</li>
+    <li>Extract evidence from profile, career history, skills, and Redrob behavioral signals.</li>
+    <li>Blend five deterministic dimensions, then apply trap and consistency penalties.</li>
+    <li>Generate reasoning only from facts found in the candidate profile.</li>
+  </ul></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Scoring model</h1><div class="grid">
+    <div class="card"><div class="metric">35%</div><p>Production search/retrieval/ranking evidence.</p></div>
+    <div class="card"><div class="metric">20%</div><p>Applied ML and product engineering depth.</p></div>
+    <div class="card"><div class="metric">15%</div><p>Evaluation maturity.</p></div>
+  </div>
+  <p>Remaining 30% covers availability, logistics, trust, profile completeness, and anti-honeypot consistency.</p></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Trap defenses</h1><ul>
+    <li>Downranks AI skill stuffing when career evidence is weak.</li>
+    <li>Penalizes non-engineering titles with dense AI keyword lists.</li>
+    <li>Detects stale activity, low response rates, long notice, and inconsistent skill/role durations.</li>
+    <li>Separates CV/speech/robotics-heavy profiles from the JD's NLP/retrieval/search mandate.</li>
+  </ul></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Runtime and validation</h1><div class="grid">
+    <div class="card"><div class="metric">100,000</div><p>Candidates processed.</p></div>
+    <div class="card"><div class="metric">39.2s</div><p>CPU-only ranking runtime.</p></div>
+    <div class="card"><div class="metric">100</div><p>CSV rows, ranks 1-100, monotonic scores.</p></div>
+  </div></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Sample top candidates</h1><table><thead><tr><th>Rank</th><th>Candidate</th><th>Score</th><th>Evidence</th></tr></thead><tbody><tr><td>#1</td><td>CAND_0081846<br><span class="small">Lead AI Engineer, 6.7 yrs</span></td><td>0.9185</td><td>semantic search, dense vector recall, embeddings, retrieval</td></tr><tr><td>#2</td><td>CAND_0077337<br><span class="small">Staff Machine Learning Engineer, 7.0 yrs</span></td><td>0.9094</td><td>semantic search, recommendation system, dense vector recall, embeddings</td></tr><tr><td>#3</td><td>CAND_0008425<br><span class="small">Senior NLP Engineer, 7.8 yrs</span></td><td>0.8891</td><td>candidate-JD matching, semantic search, dense vector recall, retrieval</td></tr></tbody></table></section>
+<section class="slide"><div class="kicker">Redrob Talent Intelligence</div><h1>Why this can win</h1><p>The submission is reproducible, fast, and defensible in interview. It avoids the obvious keyword trap, uses the behavioral signals Redrob intentionally provided, and produces explanations a recruiter can audit against the source profile.</p></section>
+</body>
+</html>

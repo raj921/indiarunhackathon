@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.next/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+# Challenge data is supplied externally and the full JSONL is too large for repo commits.
+India_runs_data_and_ai_challenge/candidates.jsonl
+India_runs_data_and_ai_challenge/candidates.jsonl.gz
+.gitnexus
